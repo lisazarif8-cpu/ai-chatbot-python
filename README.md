@@ -1,2 +1,1 @@
-# ai-chatbot-python
-A smart AI chatbot built with Python and NLP, designed to respond intelligently to user input and demonstrate AI integration skills.
+A Python-based AI project that analyzes the sentiment of user input (positive, negative, neutral) using simple NLP techniques
